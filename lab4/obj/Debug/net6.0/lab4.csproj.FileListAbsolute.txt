@@ -1,0 +1,15 @@
+/Users/arinacherednik/Projects/lab4/lab4/bin/Debug/net6.0/lab4
+/Users/arinacherednik/Projects/lab4/lab4/bin/Debug/net6.0/lab4.deps.json
+/Users/arinacherednik/Projects/lab4/lab4/bin/Debug/net6.0/lab4.runtimeconfig.json
+/Users/arinacherednik/Projects/lab4/lab4/bin/Debug/net6.0/lab4.dll
+/Users/arinacherednik/Projects/lab4/lab4/bin/Debug/net6.0/lab4.pdb
+/Users/arinacherednik/Projects/lab4/lab4/obj/Debug/net6.0/lab4.csproj.AssemblyReference.cache
+/Users/arinacherednik/Projects/lab4/lab4/obj/Debug/net6.0/lab4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arinacherednik/Projects/lab4/lab4/obj/Debug/net6.0/lab4.AssemblyInfoInputs.cache
+/Users/arinacherednik/Projects/lab4/lab4/obj/Debug/net6.0/lab4.AssemblyInfo.cs
+/Users/arinacherednik/Projects/lab4/lab4/obj/Debug/net6.0/lab4.csproj.CoreCompileInputs.cache
+/Users/arinacherednik/Projects/lab4/lab4/obj/Debug/net6.0/lab4.dll
+/Users/arinacherednik/Projects/lab4/lab4/obj/Debug/net6.0/refint/lab4.dll
+/Users/arinacherednik/Projects/lab4/lab4/obj/Debug/net6.0/lab4.pdb
+/Users/arinacherednik/Projects/lab4/lab4/obj/Debug/net6.0/lab4.genruntimeconfig.cache
+/Users/arinacherednik/Projects/lab4/lab4/obj/Debug/net6.0/ref/lab4.dll
